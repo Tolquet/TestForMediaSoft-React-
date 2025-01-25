@@ -8,11 +8,13 @@ import ContactPage from "./pages/ContactPage";
 import Navigation from "./components/Navigation";
 import HeaderMemo from "./components/Header";
 import Footer from "./components/footer";
+
 function App() {
   return (
     <>
       <HeaderMemo />
       <Navigation />
+      
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />

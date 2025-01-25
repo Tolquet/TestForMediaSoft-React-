@@ -1,11 +1,14 @@
-import React, { useState } from "react";
-import logo from '../images/lemon_1097062.png'
-
+import React, {} from "react";
+import logo from '../assets/images/lemon_1097062.png'
+import BurgerMenu from "./burgerMenu";
 const Header = () => {
   return (
     <header>
-        <img class="logo" src={logo} alt="" />
-        <h1>Header Name</h1>
+        <div className="logo-name">
+          <img className="logo" src={logo} alt="" />
+          <h1>Header Name</h1>
+        </div>
+      <BurgerMenu />
     </header>
   );
 };

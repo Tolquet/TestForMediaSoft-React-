@@ -3,7 +3,7 @@ import Selection from "../components/ForLocalStorageComp";
 const HomePage = () => {
    return (
     <>
-      <div>Home Page</div>
+      
       <Selection />
     </>
   );
