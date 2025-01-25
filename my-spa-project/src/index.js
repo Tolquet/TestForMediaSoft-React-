@@ -24,5 +24,5 @@ root.render(
   </React.StrictMode>
 );
 
-// Если вам нужен reportWebVitals, оставьте его. В противном случае удалите.
+
 reportWebVitals();

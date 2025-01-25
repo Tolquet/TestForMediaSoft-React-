@@ -10,7 +10,7 @@ const Footer = () => {
           <button>Home</button>
         </Link>
         <Link to="/about">
-          <button>About</button>
+          <button>Users</button>
         </Link>
         <Link to="/contact">
           <button>Contact</button>

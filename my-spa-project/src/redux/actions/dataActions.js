@@ -20,12 +20,12 @@ const fetchDataError = (error) => ({
 // Асинхронный экшн для получения данных с API
 export const fetchData = () => {
   return async (dispatch) => {
-    dispatch(fetchDataRequest());  // Начинаем загрузку данных
+    dispatch(fetchDataRequest()); // Начинаем загрузку данных
     try {
-      const response = await axios.get("https://jsonplaceholder.typicode.com/posts");
-      dispatch(fetchDataSuccess(response.data));  // Успешно полученные данные
+      const response = await axios.get(process.env.REACT_APP_API_URL); // Используем URL из .env
+      dispatch(fetchDataSuccess(response.data)); // Успешно полученные данные
     } catch (error) {
-      dispatch(fetchDataError(error.message));  // Обработка ошибки
+      dispatch(fetchDataError(error.message)); // Обработка ошибки
     }
   };
 };

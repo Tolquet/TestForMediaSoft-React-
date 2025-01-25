@@ -13,6 +13,11 @@ body {
   justify-content: center;
 }
 
+svg {
+  margin-top: 5px;
+  background: rgba(56, 246, 240, 0.789);
+}
+
 header {
   display: flex;
   flex-direction: row;
@@ -72,6 +77,7 @@ footer div button a:hover {
   flex-direction: row;
   justify-content: space-around;
   background: rgb(255, 252, 189);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .nav-bar button {
   font-size: 20px;

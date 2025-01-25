@@ -15,7 +15,10 @@ body{
     background: rgb(252, 238, 211);
     justify-content: center;
 }
-
+svg{
+    margin-top: 5px;
+    background:rgba(56, 246, 240, 0.789);
+}
 header{
     @include flex-row();
     justify-content: space-between;
@@ -69,6 +72,7 @@ footer{
     @include flex-row();
     justify-content: space-around;
     background: rgb(255, 252, 189);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
     button{
         font-size: 20px;
         width: 20%;

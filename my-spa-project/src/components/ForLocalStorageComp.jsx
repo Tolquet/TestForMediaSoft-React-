@@ -1,4 +1,14 @@
 import React, { useState, useEffect } from "react";
+import styled from "styled-components";
+
+const Div = styled.div`
+display:flex;
+flex-direction:column;
+border:1px solid black; 
+padding:10px;
+margin-top:10%;
+`;
+
 
 const Selection = () => {
     const [selectedOption, setSelectedOption] = useState(""); // Для хранения выбора
@@ -19,8 +29,8 @@ const Selection = () => {
     };
   
     return (
-      <div>
-        <h1>Выберите что-то</h1>
+      <Div>
+        <h2>Выберите что-то</h2>
         <select value={selectedOption} onChange={handleSelectChange}>
           <option value="">-- Выберите --</option>
           <option value="option1">Опция 1</option>
@@ -28,7 +38,7 @@ const Selection = () => {
           <option value="option3">Опция 3</option>
         </select>
         <p>Выбранная опция: {selectedOption}</p>
-      </div>
+      </Div>
     );
   };
   
