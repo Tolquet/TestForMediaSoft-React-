@@ -1,17 +1,19 @@
-import { useDispath } from 'react-redux'
+import React, {useEffect} from 'react';
+import { useDispatch } from "react-redux";
 import { Outlet } from "react-router-dom";
-import { useEffect } from 'react';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import SideBar from "./components/SideBar";
-import "./styles/main.scss";
+
 
 import { getCategories } from './store/reducers/CategoriesSlice';
+import AppRoutes from './components/routes/routes';
 
 
 
 function App() {
-  const dispatch = useDispath();
+
+  const dispatch = useDispatch();
 
   useEffect(() => {
     dispatch(getCategories());
@@ -20,7 +22,10 @@ function App() {
   return (
     <>
       <Header />
-      <SideBar />
+      <AppRoutes />
+      <div className="container">
+        <SideBar />
+      </div>
       <Outlet /> 
       <Footer />
     </>
