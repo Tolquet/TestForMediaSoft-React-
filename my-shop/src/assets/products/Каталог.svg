@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 189.08 87.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #533999;
+      }
+
+      .cls-3 {
+        fill: #cc89c9;
+      }
+
+      .cls-4 {
+        fill: #806ad3;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="29.37" width="159.71" height="72.82"/>
+  <path class="cls-3" d="m186.59,2.16H31.02v27.14c-.55-.03-1.09-.05-1.65-.05C13.15,29.25,0,42.4,0,58.62s13.15,29.37,29.37,29.37c12.23,0,22.71-7.47,27.13-18.1h130.09V2.16Z"/>
+  <g>
+    <rect class="cls-4" x="10.57" y="45.71" width="36.42" height="1.97"/>
+    <rect class="cls-4" x="26.53" y="46.7" width="4.48" height="29.51"/>
+    <rect class="cls-4" x="20.79" y="74.24" width="15.97" height="3.95"/>
+    <circle class="cls-4" cx="28.77" cy="42.36" r="1.74"/>
+    <rect class="cls-4" x="2.75" y="53.4" width="13.4" height=".72" transform="translate(-44.96 49.4) rotate(-75.44)"/>
+    <rect class="cls-4" x="6.36" y="53.4" width="13.4" height=".72" transform="translate(61.82 27.6) rotate(75.44)"/>
+    <path class="cls-4" d="m11.31,64.14c2.43,0,4.4-1.97,4.4-4.4H6.9c0,2.43,1.97,4.4,4.4,4.4Z"/>
+    <rect class="cls-4" x="37.75" y="53.4" width="13.4" height=".72" transform="translate(-18.76 83.27) rotate(-75.44)"/>
+    <rect class="cls-4" x="41.36" y="53.4" width="13.4" height=".72" transform="translate(88.02 -6.27) rotate(75.44)"/>
+    <path class="cls-4" d="m46.31,64.14c2.43,0,4.4-1.97,4.4-4.4h-8.81c0,2.43,1.97,4.4,4.4,4.4Z"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="10.12" y="43.66" width="36.42" height="1.97"/>
+    <rect class="cls-2" x="26.09" y="44.65" width="4.48" height="29.51"/>
+    <rect class="cls-2" x="20.35" y="72.18" width="15.97" height="3.95"/>
+    <circle class="cls-2" cx="28.33" cy="40.3" r="1.74"/>
+    <rect class="cls-2" x="2.31" y="51.35" width="13.4" height=".72" transform="translate(-43.3 47.43) rotate(-75.44)"/>
+    <rect class="cls-2" x="5.92" y="51.35" width="13.4" height=".72" transform="translate(59.49 26.49) rotate(75.44)"/>
+    <path class="cls-2" d="m10.86,62.09c2.43,0,4.4-1.97,4.4-4.4H6.46c0,2.43,1.97,4.4,4.4,4.4Z"/>
+    <rect class="cls-2" x="37.31" y="51.35" width="13.4" height=".72" transform="translate(-17.1 81.31) rotate(-75.44)"/>
+    <rect class="cls-2" x="40.92" y="51.35" width="13.4" height=".72" transform="translate(85.7 -7.38) rotate(75.44)"/>
+    <path class="cls-2" d="m45.86,62.09c2.43,0,4.4-1.97,4.4-4.4h-8.81c0,2.43,1.97,4.4,4.4,4.4Z"/>
+  </g>
+</svg>
