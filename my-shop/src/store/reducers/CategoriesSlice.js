@@ -1,40 +1,17 @@
-import axios from "axios";
-import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
-import { BASE_URL } from "../../utils/constants";
+import { createSlice } from "@reduxjs/toolkit";
 
-export const getCategories = createAsyncThunk(
-    'categories/getCategories',
-    async (_, thunkAPI) =>{
-        try {
-            const res = await axios(`${BASE_URL}/categories`);
-            return res.data;
-        } catch (err) {
-            console.log(err);
-            return thunkAPI.rejectWithValue(err);   
-        }
-    }
-);
+const initialState = {
+    list: [
+        { id: 1, name: "Зелья", slug: "potions" },
+        { id: 2, name: "Одежда", slug: "clothing" },
+        { id: 3, name: "Оружие", slug: "weapons" }
+    ]
+};
 
 const categoriesSlice = createSlice({
-    name: 'categories',
-    initialState: {
-        list:[],
-        isLoading: false
-    },
-    extraReducers: (builder) =>{
-        builder.addCase(getCategories.fulfilled, (state, { payload }) =>{
-            state.isLoading = false;
-        });
-        builder.addCase(getCategories.pending, (state, { payload }) =>{
-            state.isLoading = true;
-        });
-        builder.addCase(getCategories.rejected, (state) =>{
-            state.isLoading = false;
-            console.log("Error")
-        });
+    name: "categories",
+    initialState,
+    reducers: {}
+});
 
-
-    }
-})
-
-export default categoriesSlice.reducer
+export default categoriesSlice.reducer;

@@ -6,7 +6,7 @@ import productsReducer from "../store/reducers/ProductsSlice"
 
 const store = configureStore({
   reducer: {
-    categorie: categoriesSlice,
+    categories: categoriesSlice,
     products: productsReducer,
   },
   devTools: true,

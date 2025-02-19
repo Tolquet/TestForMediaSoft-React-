@@ -1,33 +1,34 @@
-
 import { createSlice } from "@reduxjs/toolkit";
 
-
 const initialState = {
-  products: [
-    { id: 1, name: "Процессор", price: 70000 },
-    { id: 2, name: "Видеокарта", price: 50000 },
-    { id: 3, name: "Оперативка", price: 30000 },
-    { id: 4, name: "Клавиатура", price: 5000 },
-  ],
-  sortOrder: "asc",
-  searchTerm: "",
+    list: [
+        { id: 1, name: "Магическое зелье", categorySlug: "potions", price: 50 },
+        { id: 2, name: "Эликсир маны", categorySlug: "potions", price: 75 },
+        { id: 3, name: "Кожаный доспех", categorySlug: "clothing", price: 200 },
+        { id: 4, name: "Стальной меч", categorySlug: "weapons", price: 500 },
+        { id: 5, name: "Лук охотника", categorySlug: "weapons", price: 300 }
+    ],
+    searchTerm: "",
+    sortOrder: "asc" // "asc" - по возрастанию, "desc" - по убыванию
 };
 
-const productsSlice = createSlice({
-  name: "products",
-  initialState,
-  reducers: {
-    sortProducts: (state) => {
-      state.products.sort((a, b) =>
-        state.sortOrder === "asc" ? a.price - b.price : b.price - a.price
-      );
-      state.sortOrder = state.sortOrder === "asc" ? "desc" : "asc";
-    },
-    setSearchTerm: (state, action) => {
-      state.searchTerm = action.payload;
-    },
-  },
+const productSlice = createSlice({
+    name: "products",
+    initialState,
+    reducers: {
+        setSearchTerm: (state, action) => {
+            state.searchTerm = action.payload;
+        },
+        sortProducts: (state) => {
+            if (!state.list || !Array.isArray(state.list)) return; // Защита от ошибки
+            
+            state.sortOrder = state.sortOrder === "asc" ? "desc" : "asc";
+            state.list = [...state.list].sort((a, b) =>
+                state.sortOrder === "asc" ? a.price - b.price : b.price - a.price
+            );
+        }
+    }
 });
 
-export const { sortProducts, setSearchTerm } = productsSlice.actions;
-export default productsSlice.reducer;
+export const { setSearchTerm, sortProducts } = productSlice.actions;
+export default productSlice.reducer;

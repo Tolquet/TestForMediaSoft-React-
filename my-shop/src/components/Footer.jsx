@@ -4,8 +4,8 @@ import githubImg  from "../assets/icons8-github-50.png"
 
 const Footer = () => {
   return (
-    <footer>
-      <section>
+    <footer className="footer">
+      <section className="logo-section">
         <Link to="/">
           <img className="logo" src={logo} alt="HEROS LOOT" />
         </Link>
@@ -14,8 +14,8 @@ const Footer = () => {
         <p className="Dv">Developed by Jungarik</p>
       </div>
       <div className="social">
-        <a target="_blank" href="https://github.com/Tolquet"><img src={githubImg} alt="" />Мой ГитХаб</a>
-        <a target="_blank" href="https://t.me/tolqet">Telegram</a>
+        <a className="social-line" target="_blank" href="https://github.com/Tolquet"><img src={githubImg} alt="" />Мой ГитХаб</a>
+        <a className="social-line" target="_blank" href="https://t.me/tolqet">Telegram</a>
       </div>
     </footer>
   );
