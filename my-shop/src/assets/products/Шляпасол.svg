@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1251.1 789.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6c063;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dbc566;
+      }
+
+      .cls-3 {
+        fill: #d5bf63;
+      }
+
+      .cls-4 {
+        fill: #d7c064;
+      }
+
+      .cls-5 {
+        fill: #d8c161;
+      }
+
+      .cls-6 {
+        fill: #e0c968;
+      }
+
+      .cls-21 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        fill: #dcc666;
+      }
+
+      .cls-8 {
+        fill: red;
+      }
+
+      .cls-9 {
+        fill: #d4be62;
+      }
+
+      .cls-10 {
+        fill: url(#_Безымянный_градиент_181);
+        opacity: .42;
+      }
+
+      .cls-10, .cls-20 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-11 {
+        fill: #d9c265;
+      }
+
+      .cls-12 {
+        fill: #dac365;
+      }
+
+      .cls-13 {
+        fill: #f2d768;
+      }
+
+      .cls-14 {
+        fill: #dac465;
+      }
+
+      .cls-15 {
+        fill: #d3bd62;
+      }
+
+      .cls-16 {
+        fill: #ddc667;
+      }
+
+      .cls-17 {
+        fill: #dfc868;
+      }
+
+      .cls-18 {
+        fill: #d8c164;
+      }
+
+      .cls-19 {
+        fill: #dec767;
+      }
+
+      .cls-20 {
+        fill: url(#_Безымянный_градиент_185);
+        opacity: .1;
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_181" data-name="Безымянный градиент 181" x1="0" y1="433.07" x2="1251.1" y2="433.07" gradientTransform="translate(1039.73 -205.14) rotate(88.29)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0" stop-color="#505050"/>
+      <stop offset="0" stop-color="#585858"/>
+      <stop offset="0" stop-color="#313131"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_185" data-name="Безымянный градиент 185" x1="412.74" y1="275.65" x2="642.18" y2="176.23" gradientTransform="translate(803.11 -481.44) rotate(88.29)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0" stop-color="#505050"/>
+      <stop offset="0" stop-color="#585858"/>
+      <stop offset="0" stop-color="#535353"/>
+      <stop offset="0" stop-color="#313131"/>
+      <stop offset=".93" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-21">
+    <g id="_Слой_1" data-name="Слой 1">
+      <g>
+        <ellipse class="cls-13" cx="625.55" cy="433.07" rx="356.36" ry="625.74" transform="translate(173.97 1045.4) rotate(-88.29)"/>
+        <ellipse class="cls-10" cx="625.55" cy="433.07" rx="356.36" ry="625.74" transform="translate(173.97 1045.4) rotate(-88.29)"/>
+        <ellipse class="cls-8" cx="638.84" cy="395.73" rx="236.39" ry="380.66" transform="translate(224.19 1022.46) rotate(-88.29)"/>
+        <g>
+          <ellipse class="cls-6" cx="639.24" cy="359.43" rx="236.39" ry="354.12" transform="translate(260.86 987.64) rotate(-88.29)"/>
+          <ellipse class="cls-17" cx="639.56" cy="348.82" rx="234.37" ry="350.25" transform="translate(271.78 977.67) rotate(-88.29)"/>
+          <ellipse class="cls-19" cx="639.88" cy="338.21" rx="232.34" ry="346.37" transform="translate(282.69 967.69) rotate(-88.29)"/>
+          <ellipse class="cls-16" cx="640.19" cy="327.6" rx="230.32" ry="342.49" transform="translate(293.6 957.72) rotate(-88.29)"/>
+          <ellipse class="cls-7" cx="640.51" cy="317" rx="228.3" ry="338.61" transform="translate(304.51 947.74) rotate(-88.29)"/>
+          <ellipse class="cls-2" cx="640.83" cy="306.39" rx="226.28" ry="334.74" transform="translate(315.42 937.77) rotate(-88.29)"/>
+          <ellipse class="cls-14" cx="641.14" cy="295.78" rx="224.26" ry="330.86" transform="translate(326.34 927.79) rotate(-88.29)"/>
+          <ellipse class="cls-12" cx="641.46" cy="285.17" rx="222.24" ry="326.98" transform="translate(337.25 917.82) rotate(-88.29)"/>
+          <ellipse class="cls-11" cx="641.78" cy="274.56" rx="220.22" ry="323.1" transform="translate(348.16 907.85) rotate(-88.29)"/>
+          <ellipse class="cls-18" cx="642.1" cy="263.95" rx="218.2" ry="319.23" transform="translate(359.07 897.87) rotate(-88.29)"/>
+          <ellipse class="cls-4" cx="642.41" cy="253.34" rx="216.18" ry="315.35" transform="translate(369.98 887.9) rotate(-88.29)"/>
+          <ellipse class="cls-1" cx="642.73" cy="242.73" rx="214.15" ry="311.47" transform="translate(380.89 877.92) rotate(-88.29)"/>
+          <ellipse class="cls-3" cx="643.05" cy="232.12" rx="212.13" ry="307.59" transform="translate(391.81 867.95) rotate(-88.29)"/>
+          <ellipse class="cls-9" cx="643.37" cy="221.52" rx="210.11" ry="303.72" transform="translate(402.72 857.97) rotate(-88.29)"/>
+          <ellipse class="cls-15" cx="643.68" cy="210.91" rx="208.09" ry="299.84" transform="translate(413.63 848) rotate(-88.29)"/>
+        </g>
+        <ellipse class="cls-5" cx="649.58" cy="173.02" rx="172.89" ry="279.31" transform="translate(457.22 817.14) rotate(-88.29)"/>
+        <ellipse class="cls-20" cx="649.58" cy="173.02" rx="172.89" ry="279.31" transform="translate(457.22 817.14) rotate(-88.29)"/>
+      </g>
+    </g>
+  </g>
+</svg>

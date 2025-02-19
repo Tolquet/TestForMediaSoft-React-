@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 982.2 1666.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент_801-6);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_801-20);
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_801-32);
+      }
+
+      .cls-4 {
+        fill: url(#_Безымянный_градиент_801-13);
+      }
+
+      .cls-5 {
+        fill: url(#_Безымянный_градиент_801-16);
+      }
+
+      .cls-6 {
+        fill: url(#_Безымянный_градиент_801-28);
+      }
+
+      .cls-7 {
+        fill: url(#_Безымянный_градиент_801-14);
+      }
+
+      .cls-8 {
+        fill: url(#_Безымянный_градиент_801-31);
+      }
+
+      .cls-9 {
+        fill: url(#_Безымянный_градиент_801-10);
+      }
+
+      .cls-10 {
+        fill: url(#_Безымянный_градиент_801-34);
+      }
+
+      .cls-11 {
+        fill: url(#_Безымянный_градиент_801-3);
+      }
+
+      .cls-12 {
+        fill: #ba704a;
+      }
+
+      .cls-13 {
+        fill: url(#_Безымянный_градиент_801-43);
+      }
+
+      .cls-14 {
+        fill: url(#_Безымянный_градиент_801-27);
+      }
+
+      .cls-15 {
+        fill: url(#_Безымянный_градиент_801-11);
+      }
+
+      .cls-16 {
+        fill: url(#_Безымянный_градиент_801-42);
+      }
+
+      .cls-17 {
+        fill: url(#_Безымянный_градиент_801-47);
+      }
+
+      .cls-58 {
+        isolation: isolate;
+      }
+
+      .cls-18 {
+        fill: url(#_Безымянный_градиент_26492);
+        opacity: .41;
+      }
+
+      .cls-18, .cls-42 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-19 {
+        fill: url(#_Безымянный_градиент_801-37);
+      }
+
+      .cls-20 {
+        fill: url(#_Безымянный_градиент_801-5);
+      }
+
+      .cls-21 {
+        fill: url(#_Безымянный_градиент_801-44);
+      }
+
+      .cls-22 {
+        fill: url(#_Безымянный_градиент_801-41);
+      }
+
+      .cls-23 {
+        fill: url(#_Безымянный_градиент_801-21);
+      }
+
+      .cls-24 {
+        fill: url(#_Безымянный_градиент_801-38);
+      }
+
+      .cls-25, .cls-59 {
+        fill: none;
+      }
+
+      .cls-26 {
+        fill: url(#_Безымянный_градиент_801-12);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-27 {
+        fill: url(#_Безымянный_градиент_801-23);
+      }
+
+      .cls-28 {
+        fill: url(#_Безымянный_градиент_801-9);
+      }
+
+      .cls-29 {
+        fill: #ef6a6a;
+      }
+
+      .cls-30 {
+        fill: url(#_Безымянный_градиент_801-39);
+      }
+
+      .cls-31 {
+        fill: #bcb5b5;
+      }
+
+      .cls-32 {
+        fill: url(#_Безымянный_градиент_801-36);
+      }
+
+      .cls-33 {
+        fill: #d37f54;
+      }
+
+      .cls-34 {
+        fill: #b5b5b5;
+        opacity: .56;
+      }
+
+      .cls-35 {
+        fill: url(#_Безымянный_градиент_801-25);
+      }
+
+      .cls-36 {
+        fill: url(#_Безымянный_градиент_801-30);
+      }
+
+      .cls-37 {
+        fill: url(#_Безымянный_градиент_801-40);
+      }
+
+      .cls-38 {
+        fill: url(#_Безымянный_градиент_801-22);
+      }
+
+      .cls-39 {
+        fill: #d3d3d3;
+      }
+
+      .cls-61 {
+        mix-blend-mode: color-burn;
+        opacity: .21;
+      }
+
+      .cls-40 {
+        fill: url(#_Безымянный_градиент_801-2);
+      }
+
+      .cls-62 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-41 {
+        fill: url(#_Безымянный_градиент_801-29);
+      }
+
+      .cls-42 {
+        fill: url(#_Безымянный_градиент_753);
+        opacity: .27;
+      }
+
+      .cls-43 {
+        fill: #dd8585;
+      }
+
+      .cls-44 {
+        fill: url(#_Безымянный_градиент_801-26);
+      }
+
+      .cls-45 {
+        fill: url(#_Безымянный_градиент_801-45);
+      }
+
+      .cls-46 {
+        fill: url(#_Безымянный_градиент_801-4);
+      }
+
+      .cls-47 {
+        fill: url(#_Безымянный_градиент_801-7);
+      }
+
+      .cls-59 {
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-63 {
+        opacity: .62;
+      }
+
+      .cls-48 {
+        fill: url(#_Безымянный_градиент_801-18);
+      }
+
+      .cls-49 {
+        fill: url(#_Безымянный_градиент_801-46);
+      }
+
+      .cls-50 {
+        fill: url(#_Безымянный_градиент_801-33);
+      }
+
+      .cls-51 {
+        fill: url(#_Безымянный_градиент_801);
+      }
+
+      .cls-52 {
+        fill: url(#_Безымянный_градиент_801-24);
+      }
+
+      .cls-53 {
+        fill: url(#_Безымянный_градиент_801-8);
+      }
+
+      .cls-54 {
+        fill: url(#_Безымянный_градиент_801-15);
+      }
+
+      .cls-55 {
+        fill: url(#_Безымянный_градиент_801-19);
+      }
+
+      .cls-56 {
+        fill: url(#_Безымянный_градиент_801-17);
+      }
+
+      .cls-57 {
+        fill: url(#_Безымянный_градиент_801-35);
+      }
+    </style>
+    <clipPath id="clippath">
+      <ellipse class="cls-25" cx="491.09" cy="137.27" rx="160.77" ry="55.96"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-25" x="325.33" y="76.31" width="331.54" height="121.92"/>
+    </clipPath>
+    <linearGradient id="_Безымянный_градиент_753" data-name="Безымянный градиент 753" x1=".01" y1="873.97" x2="982.2" y2="873.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".23" stop-color="#7d7d7d"/>
+      <stop offset=".36" stop-color="#fff"/>
+      <stop offset=".49" stop-color="#898989"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_801" data-name="Безымянный градиент 801" x1="378.83" y1="30.22" x2="603.36" y2="30.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".23" stop-color="#7d7d7d"/>
+      <stop offset=".36" stop-color="#fff"/>
+      <stop offset=".49" stop-color="#898989"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_801-2" data-name="Безымянный градиент 801" x1="379.03" y1="32.69" x2="603.15" y2="32.69" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-3" data-name="Безымянный градиент 801" x1="379.24" y1="35.16" x2="602.94" y2="35.16" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-4" data-name="Безымянный градиент 801" x1="379.45" y1="37.64" x2="602.73" y2="37.64" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-5" data-name="Безымянный градиент 801" x1="379.66" y1="40.11" x2="602.53" y2="40.11" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-6" data-name="Безымянный градиент 801" x1="379.87" y1="42.58" x2="602.32" y2="42.58" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-7" data-name="Безымянный градиент 801" x1="380.08" y1="45.05" x2="602.11" y2="45.05" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-8" data-name="Безымянный градиент 801" x1="380.29" y1="47.52" x2="601.9" y2="47.52" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-9" data-name="Безымянный градиент 801" x1="380.5" y1="49.99" x2="601.69" y2="49.99" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-10" data-name="Безымянный градиент 801" x1="380.71" y1="52.46" x2="601.48" y2="52.46" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-11" data-name="Безымянный градиент 801" x1="380.92" y1="54.93" x2="601.27" y2="54.93" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-12" data-name="Безымянный градиент 801" x1="381.13" y1="57.4" x2="601.06" y2="57.4" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-13" data-name="Безымянный градиент 801" x1="381.34" y1="59.87" x2="600.85" y2="59.87" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-14" data-name="Безымянный градиент 801" x1="381.55" y1="62.35" x2="600.64" y2="62.35" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-15" data-name="Безымянный градиент 801" x1="381.76" y1="64.82" x2="600.43" y2="64.82" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-16" data-name="Безымянный градиент 801" x1="381.97" y1="67.29" x2="600.22" y2="67.29" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-17" data-name="Безымянный градиент 801" x1="382.18" y1="69.76" x2="600.01" y2="69.76" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-18" data-name="Безымянный градиент 801" x1="382.39" y1="72.23" x2="599.8" y2="72.23" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-19" data-name="Безымянный градиент 801" x1="382.6" y1="74.7" x2="599.59" y2="74.7" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-20" data-name="Безымянный градиент 801" x1="382.81" y1="77.17" x2="599.38" y2="77.17" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-21" data-name="Безымянный градиент 801" x1="383.02" y1="79.64" x2="599.17" y2="79.64" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-22" data-name="Безымянный градиент 801" x1="383.23" y1="82.11" x2="598.96" y2="82.11" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-23" data-name="Безымянный градиент 801" x1="383.44" y1="84.59" x2="598.75" y2="84.59" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-24" data-name="Безымянный градиент 801" x1="383.65" y1="87.06" x2="598.54" y2="87.06" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-25" data-name="Безымянный градиент 801" x1="383.86" y1="89.53" x2="598.33" y2="89.53" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-26" data-name="Безымянный градиент 801" x1="384.07" y1="92" x2="598.12" y2="92" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-27" data-name="Безымянный градиент 801" x1="384.27" y1="94.47" x2="597.91" y2="94.47" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-28" data-name="Безымянный градиент 801" x1="384.48" y1="96.94" x2="597.7" y2="96.94" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-29" data-name="Безымянный градиент 801" x1="384.69" y1="99.41" x2="597.49" y2="99.41" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-30" data-name="Безымянный градиент 801" x1="384.9" y1="101.88" x2="597.29" y2="101.88" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-31" data-name="Безымянный градиент 801" x1="385.11" y1="104.35" x2="597.08" y2="104.35" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-32" data-name="Безымянный градиент 801" x1="385.32" y1="106.82" x2="596.87" y2="106.82" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-33" data-name="Безымянный градиент 801" x1="385.53" y1="109.3" x2="596.66" y2="109.3" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-34" data-name="Безымянный градиент 801" x1="385.74" y1="111.77" x2="596.45" y2="111.77" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-35" data-name="Безымянный градиент 801" x1="385.95" y1="114.24" x2="596.24" y2="114.24" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-36" data-name="Безымянный градиент 801" x1="386.16" y1="116.71" x2="596.03" y2="116.71" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-37" data-name="Безымянный градиент 801" x1="386.37" y1="119.18" x2="595.82" y2="119.18" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-38" data-name="Безымянный градиент 801" x1="386.58" y1="121.65" x2="595.61" y2="121.65" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-39" data-name="Безымянный градиент 801" x1="386.79" y1="124.12" x2="595.4" y2="124.12" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-40" data-name="Безымянный градиент 801" x1="387" y1="126.59" x2="595.19" y2="126.59" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-41" data-name="Безымянный градиент 801" x1="387.21" y1="129.06" x2="594.98" y2="129.06" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-42" data-name="Безымянный градиент 801" x1="387.42" y1="131.53" x2="594.77" y2="131.53" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-43" data-name="Безымянный градиент 801" x1="387.63" y1="134.01" x2="594.56" y2="134.01" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-44" data-name="Безымянный градиент 801" x1="387.84" y1="136.48" x2="594.35" y2="136.48" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-45" data-name="Безымянный градиент 801" x1="388.05" y1="138.95" x2="594.14" y2="138.95" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-46" data-name="Безымянный градиент 801" x1="388.26" y1="141.42" x2="593.93" y2="141.42" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_801-47" data-name="Безымянный градиент 801" x1="388.47" y1="143.89" x2="593.72" y2="143.89" xlink:href="#_Безымянный_градиент_801"/>
+    <linearGradient id="_Безымянный_градиент_26492" data-name="Безымянный градиент 26492" x1="378.64" y1="27.68" x2="603.36" y2="27.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7c7c7"/>
+      <stop offset=".98" stop-color="#1d1d1d"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-58">
+    <g id="_Слой_1" data-name="Слой 1">
+      <g>
+        <g>
+          <g>
+            <path class="cls-29" d="m35.02,979.13C12.43,1038.53,0,1103.36,0,1171.25c0,195.1,102.61,364.94,254.08,453.01h1.38c38.97,24.91,129.8,42.38,235.63,42.38s196.66-17.47,235.63-42.38h1.38c151.47-88.07,254.08-257.91,254.08-453.01,0-67.89-12.43-132.72-35.02-192.12-77.58,25.7-252.59,43.62-456.08,43.62s-378.5-17.92-456.08-43.62Z"/>
+            <path class="cls-43" d="m879.13,943.8c-80.39-19.13-224.1-31.88-388.02-31.88s-307.63,12.75-388.02,31.88c-43.14,10.27-68.07,22.37-68.07,35.33,0,9.7,13.97,18.92,39.06,27.24,70.94,23.54,230.96,39.96,417.03,39.96s346.09-16.42,417.03-39.96c25.09-8.33,39.06-17.55,39.06-27.24,0-12.96-24.93-25.06-68.07-35.33Z"/>
+          </g>
+          <path class="cls-39" d="m940.53,967.62c-43.64-79.9-105.38-147.12-179.21-195.22.57-1.98.87-3.98.87-6,0-24.62-43.06-46.47-109.52-60.11V163.49c0-36.32-29-65.77-64.78-65.77h-193.55c-35.77,0-64.78,29.45-64.78,65.77v542.8c-66.46,13.64-109.52,35.48-109.52,60.11,0,2.02.3,4.02.87,6-73.84,48.1-135.57,115.32-179.21,195.22,93.11-22.45,259.55-37.41,449.42-37.41s356.31,14.96,449.42,37.41Z"/>
+          <g>
+            <g class="cls-62">
+              <g class="cls-60">
+                <image width="692" height="255" transform="translate(325.02 76.01) scale(.48)" xlink:href="data:image/png;base64,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"/>
+              </g>
+            </g>
+            <ellipse class="cls-59" cx="491.09" cy="137.27" rx="160.77" ry="55.96"/>
+          </g>
+        </g>
+        <g>
+          <g class="cls-63">
+            <ellipse class="cls-31" cx="491.1" cy="258.21" rx="112.27" ry="28.54"/>
+            <ellipse class="cls-31" cx="491.1" cy="255.74" rx="112.06" ry="28.49"/>
+            <ellipse class="cls-31" cx="491.1" cy="253.27" rx="111.85" ry="28.44"/>
+            <ellipse class="cls-31" cx="491.1" cy="250.79" rx="111.64" ry="28.38"/>
+            <ellipse class="cls-31" cx="491.1" cy="248.32" rx="111.43" ry="28.33"/>
+            <ellipse class="cls-31" cx="491.1" cy="245.85" rx="111.22" ry="28.28"/>
+            <ellipse class="cls-31" cx="491.1" cy="243.38" rx="111.01" ry="28.22"/>
+            <ellipse class="cls-31" cx="491.1" cy="240.91" rx="110.8" ry="28.17"/>
+            <ellipse class="cls-31" cx="491.1" cy="238.44" rx="110.59" ry="28.12"/>
+            <ellipse class="cls-31" cx="491.1" cy="235.97" rx="110.38" ry="28.06"/>
+            <ellipse class="cls-31" cx="491.1" cy="233.5" rx="110.17" ry="28.01"/>
+            <ellipse class="cls-31" cx="491.1" cy="231.03" rx="109.96" ry="27.96"/>
+            <ellipse class="cls-31" cx="491.1" cy="228.56" rx="109.75" ry="27.91"/>
+            <ellipse class="cls-31" cx="491.1" cy="226.08" rx="109.54" ry="27.85"/>
+            <ellipse class="cls-31" cx="491.1" cy="223.61" rx="109.33" ry="27.8"/>
+            <ellipse class="cls-31" cx="491.1" cy="221.14" rx="109.13" ry="27.75"/>
+            <ellipse class="cls-31" cx="491.1" cy="218.67" rx="108.92" ry="27.69"/>
+            <ellipse class="cls-31" cx="491.1" cy="216.2" rx="108.71" ry="27.64"/>
+            <ellipse class="cls-31" cx="491.1" cy="213.73" rx="108.5" ry="27.59"/>
+            <ellipse class="cls-31" cx="491.1" cy="211.26" rx="108.29" ry="27.53"/>
+            <ellipse class="cls-31" cx="491.1" cy="208.79" rx="108.08" ry="27.48"/>
+            <ellipse class="cls-31" cx="491.1" cy="206.32" rx="107.87" ry="27.43"/>
+            <ellipse class="cls-31" cx="491.1" cy="203.84" rx="107.66" ry="27.37"/>
+            <ellipse class="cls-31" cx="491.1" cy="201.37" rx="107.45" ry="27.32"/>
+            <ellipse class="cls-31" cx="491.1" cy="198.9" rx="107.24" ry="27.27"/>
+            <ellipse class="cls-31" cx="491.1" cy="196.43" rx="107.03" ry="27.21"/>
+            <ellipse class="cls-31" cx="491.1" cy="193.96" rx="106.82" ry="27.16"/>
+            <ellipse class="cls-31" cx="491.1" cy="191.49" rx="106.61" ry="27.11"/>
+            <ellipse class="cls-31" cx="491.1" cy="189.02" rx="106.4" ry="27.05"/>
+            <ellipse class="cls-31" cx="491.1" cy="186.55" rx="106.19" ry="27"/>
+            <ellipse class="cls-31" cx="491.1" cy="184.08" rx="105.98" ry="26.95"/>
+            <ellipse class="cls-31" cx="491.1" cy="181.61" rx="105.77" ry="26.89"/>
+            <ellipse class="cls-31" cx="491.1" cy="179.13" rx="105.56" ry="26.84"/>
+            <ellipse class="cls-31" cx="491.1" cy="176.66" rx="105.35" ry="26.79"/>
+            <ellipse class="cls-31" cx="491.1" cy="174.19" rx="105.14" ry="26.73"/>
+            <ellipse class="cls-31" cx="491.1" cy="171.72" rx="104.93" ry="26.68"/>
+            <ellipse class="cls-31" cx="491.1" cy="169.25" rx="104.72" ry="26.63"/>
+            <ellipse class="cls-31" cx="491.1" cy="166.78" rx="104.51" ry="26.57"/>
+            <ellipse class="cls-31" cx="491.1" cy="164.31" rx="104.3" ry="26.52"/>
+            <ellipse class="cls-31" cx="491.1" cy="161.84" rx="104.09" ry="26.47"/>
+            <ellipse class="cls-31" cx="491.1" cy="159.37" rx="103.88" ry="26.41"/>
+            <ellipse class="cls-31" cx="491.1" cy="156.9" rx="103.68" ry="26.36"/>
+            <ellipse class="cls-31" cx="491.1" cy="154.42" rx="103.47" ry="26.31"/>
+            <ellipse class="cls-31" cx="491.1" cy="151.95" rx="103.26" ry="26.25"/>
+            <ellipse class="cls-31" cx="491.1" cy="149.48" rx="103.05" ry="26.2"/>
+            <ellipse class="cls-31" cx="491.1" cy="147.01" rx="102.84" ry="26.15"/>
+            <ellipse class="cls-31" cx="491.1" cy="144.54" rx="102.63" ry="26.09"/>
+          </g>
+          <path class="cls-42" d="m947.2,979.18s0-.04,0-.05c0-3.93-2.3-7.77-6.69-11.52,0,0,.01,0,.02,0-43.64-79.9-105.38-147.12-179.21-195.22.57-1.98.87-3.98.87-6,0-24.62-43.06-46.47-109.52-60.11V163.49c0-6.27-.88-12.33-2.5-18.08,1.12-2.66,1.7-5.38,1.7-8.15,0-30.9-71.98-55.96-160.77-55.96s-160.77,25.05-160.77,55.96c0,2.78.59,5.51,1.72,8.19-1.61,5.73-2.49,11.78-2.49,18.04v542.8c-66.46,13.64-109.52,35.48-109.52,60.11,0,2.02.3,4.02.87,6-73.84,48.1-135.57,115.32-179.21,195.22,0,0,.01,0,.02,0-4.39,3.74-6.69,7.59-6.69,11.52C12.45,1038.53.01,1103.36.01,1171.25c0,195.1,102.61,364.94,254.08,453.01h1.38c38.97,24.91,129.8,42.38,235.63,42.38s196.66-17.47,235.63-42.38h1.38c151.47-88.07,254.08-257.91,254.08-453.01,0-67.87-12.43-132.68-35-192.06Z"/>
+          <ellipse class="cls-34" cx="491.11" cy="149.82" rx="112.26" ry="25.11"/>
+          <g>
+            <ellipse class="cls-33" cx="491.11" cy="29" rx="112.27" ry="28.54"/>
+            <ellipse class="cls-33" cx="491.11" cy="31.47" rx="112.06" ry="28.49"/>
+            <ellipse class="cls-33" cx="491.11" cy="33.94" rx="111.85" ry="28.44"/>
+            <ellipse class="cls-33" cx="491.11" cy="36.41" rx="111.64" ry="28.38"/>
+            <ellipse class="cls-33" cx="491.11" cy="38.88" rx="111.43" ry="28.33"/>
+            <ellipse class="cls-33" cx="491.11" cy="41.35" rx="111.22" ry="28.28"/>
+            <ellipse class="cls-33" cx="491.11" cy="43.82" rx="111.01" ry="28.22"/>
+            <ellipse class="cls-33" cx="491.11" cy="46.29" rx="110.8" ry="28.17"/>
+            <ellipse class="cls-33" cx="491.11" cy="48.76" rx="110.59" ry="28.12"/>
+            <ellipse class="cls-33" cx="491.11" cy="51.24" rx="110.38" ry="28.06"/>
+            <ellipse class="cls-33" cx="491.11" cy="53.71" rx="110.17" ry="28.01"/>
+            <ellipse class="cls-33" cx="491.11" cy="56.18" rx="109.96" ry="27.96"/>
+            <ellipse class="cls-33" cx="491.11" cy="58.65" rx="109.75" ry="27.91"/>
+            <ellipse class="cls-33" cx="491.11" cy="61.12" rx="109.54" ry="27.85"/>
+            <ellipse class="cls-33" cx="491.11" cy="63.59" rx="109.33" ry="27.8"/>
+            <ellipse class="cls-33" cx="491.11" cy="66.06" rx="109.13" ry="27.75"/>
+            <ellipse class="cls-33" cx="491.11" cy="68.53" rx="108.92" ry="27.69"/>
+            <ellipse class="cls-33" cx="491.11" cy="71" rx="108.71" ry="27.64"/>
+            <ellipse class="cls-33" cx="491.11" cy="73.48" rx="108.5" ry="27.59"/>
+            <ellipse class="cls-33" cx="491.11" cy="75.95" rx="108.29" ry="27.53"/>
+            <ellipse class="cls-33" cx="491.11" cy="78.42" rx="108.08" ry="27.48"/>
+            <ellipse class="cls-33" cx="491.11" cy="80.89" rx="107.87" ry="27.43"/>
+            <ellipse class="cls-33" cx="491.11" cy="83.36" rx="107.66" ry="27.37"/>
+            <ellipse class="cls-33" cx="491.11" cy="85.83" rx="107.45" ry="27.32"/>
+            <ellipse class="cls-33" cx="491.11" cy="88.3" rx="107.24" ry="27.27"/>
+            <ellipse class="cls-33" cx="491.11" cy="90.77" rx="107.03" ry="27.21"/>
+            <ellipse class="cls-33" cx="491.11" cy="93.24" rx="106.82" ry="27.16"/>
+            <ellipse class="cls-33" cx="491.11" cy="95.71" rx="106.61" ry="27.11"/>
+            <ellipse class="cls-33" cx="491.11" cy="98.19" rx="106.4" ry="27.05"/>
+            <ellipse class="cls-33" cx="491.11" cy="100.66" rx="106.19" ry="27"/>
+            <ellipse class="cls-33" cx="491.11" cy="103.13" rx="105.98" ry="26.95"/>
+            <ellipse class="cls-33" cx="491.11" cy="105.6" rx="105.77" ry="26.89"/>
+            <ellipse class="cls-33" cx="491.11" cy="108.07" rx="105.56" ry="26.84"/>
+            <ellipse class="cls-33" cx="491.11" cy="110.54" rx="105.35" ry="26.79"/>
+            <ellipse class="cls-33" cx="491.11" cy="113.01" rx="105.14" ry="26.73"/>
+            <ellipse class="cls-33" cx="491.11" cy="115.48" rx="104.93" ry="26.68"/>
+            <ellipse class="cls-33" cx="491.11" cy="117.95" rx="104.72" ry="26.63"/>
+            <ellipse class="cls-33" cx="491.11" cy="120.42" rx="104.51" ry="26.57"/>
+            <ellipse class="cls-33" cx="491.11" cy="122.9" rx="104.3" ry="26.52"/>
+            <ellipse class="cls-33" cx="491.11" cy="125.37" rx="104.09" ry="26.47"/>
+            <ellipse class="cls-33" cx="491.11" cy="127.84" rx="103.88" ry="26.41"/>
+            <ellipse class="cls-33" cx="491.11" cy="130.31" rx="103.68" ry="26.36"/>
+            <ellipse class="cls-33" cx="491.11" cy="132.78" rx="103.47" ry="26.31"/>
+            <ellipse class="cls-33" cx="491.11" cy="135.25" rx="103.26" ry="26.25"/>
+            <ellipse class="cls-33" cx="491.11" cy="137.72" rx="103.05" ry="26.2"/>
+            <ellipse class="cls-33" cx="491.11" cy="140.19" rx="102.84" ry="26.15"/>
+            <ellipse class="cls-33" cx="491.11" cy="142.66" rx="102.63" ry="26.09"/>
+          </g>
+          <g class="cls-61">
+            <ellipse class="cls-51" cx="491.09" cy="30.22" rx="112.27" ry="28.54"/>
+            <ellipse class="cls-40" cx="491.09" cy="32.69" rx="112.06" ry="28.49"/>
+            <ellipse class="cls-11" cx="491.09" cy="35.16" rx="111.85" ry="28.44"/>
+            <ellipse class="cls-46" cx="491.09" cy="37.64" rx="111.64" ry="28.38"/>
+            <ellipse class="cls-20" cx="491.09" cy="40.11" rx="111.43" ry="28.33"/>
+            <ellipse class="cls-1" cx="491.09" cy="42.58" rx="111.22" ry="28.28"/>
+            <ellipse class="cls-47" cx="491.09" cy="45.05" rx="111.01" ry="28.22"/>
+            <ellipse class="cls-53" cx="491.09" cy="47.52" rx="110.8" ry="28.17"/>
+            <ellipse class="cls-28" cx="491.09" cy="49.99" rx="110.59" ry="28.12"/>
+            <ellipse class="cls-9" cx="491.09" cy="52.46" rx="110.38" ry="28.06"/>
+            <ellipse class="cls-15" cx="491.09" cy="54.93" rx="110.17" ry="28.01"/>
+            <ellipse class="cls-26" cx="491.09" cy="57.4" rx="109.96" ry="27.96"/>
+            <ellipse class="cls-4" cx="491.09" cy="59.87" rx="109.75" ry="27.91"/>
+            <ellipse class="cls-7" cx="491.09" cy="62.35" rx="109.54" ry="27.85"/>
+            <ellipse class="cls-54" cx="491.09" cy="64.82" rx="109.33" ry="27.8"/>
+            <ellipse class="cls-5" cx="491.09" cy="67.29" rx="109.13" ry="27.75"/>
+            <ellipse class="cls-56" cx="491.09" cy="69.76" rx="108.92" ry="27.69"/>
+            <ellipse class="cls-48" cx="491.09" cy="72.23" rx="108.71" ry="27.64"/>
+            <ellipse class="cls-55" cx="491.09" cy="74.7" rx="108.5" ry="27.59"/>
+            <ellipse class="cls-2" cx="491.09" cy="77.17" rx="108.29" ry="27.53"/>
+            <ellipse class="cls-23" cx="491.09" cy="79.64" rx="108.08" ry="27.48"/>
+            <ellipse class="cls-38" cx="491.09" cy="82.11" rx="107.87" ry="27.43"/>
+            <ellipse class="cls-27" cx="491.09" cy="84.59" rx="107.66" ry="27.37"/>
+            <ellipse class="cls-52" cx="491.09" cy="87.06" rx="107.45" ry="27.32"/>
+            <ellipse class="cls-35" cx="491.09" cy="89.53" rx="107.24" ry="27.27"/>
+            <ellipse class="cls-44" cx="491.09" cy="92" rx="107.03" ry="27.21"/>
+            <ellipse class="cls-14" cx="491.09" cy="94.47" rx="106.82" ry="27.16"/>
+            <ellipse class="cls-6" cx="491.09" cy="96.94" rx="106.61" ry="27.11"/>
+            <ellipse class="cls-41" cx="491.09" cy="99.41" rx="106.4" ry="27.05"/>
+            <ellipse class="cls-36" cx="491.09" cy="101.88" rx="106.19" ry="27"/>
+            <ellipse class="cls-8" cx="491.09" cy="104.35" rx="105.98" ry="26.95"/>
+            <ellipse class="cls-3" cx="491.09" cy="106.82" rx="105.77" ry="26.89"/>
+            <ellipse class="cls-50" cx="491.09" cy="109.3" rx="105.56" ry="26.84"/>
+            <ellipse class="cls-10" cx="491.09" cy="111.77" rx="105.35" ry="26.79"/>
+            <ellipse class="cls-57" cx="491.09" cy="114.24" rx="105.14" ry="26.73"/>
+            <ellipse class="cls-32" cx="491.09" cy="116.71" rx="104.93" ry="26.68"/>
+            <ellipse class="cls-19" cx="491.09" cy="119.18" rx="104.72" ry="26.63"/>
+            <ellipse class="cls-24" cx="491.09" cy="121.65" rx="104.51" ry="26.57"/>
+            <ellipse class="cls-30" cx="491.09" cy="124.12" rx="104.3" ry="26.52"/>
+            <ellipse class="cls-37" cx="491.09" cy="126.59" rx="104.09" ry="26.47"/>
+            <ellipse class="cls-22" cx="491.09" cy="129.06" rx="103.88" ry="26.41"/>
+            <ellipse class="cls-16" cx="491.09" cy="131.53" rx="103.68" ry="26.36"/>
+            <ellipse class="cls-13" cx="491.09" cy="134.01" rx="103.47" ry="26.31"/>
+            <ellipse class="cls-21" cx="491.09" cy="136.48" rx="103.26" ry="26.25"/>
+            <ellipse class="cls-45" cx="491.09" cy="138.95" rx="103.05" ry="26.2"/>
+            <ellipse class="cls-49" cx="491.09" cy="141.42" rx="102.84" ry="26.15"/>
+            <ellipse class="cls-17" cx="491.09" cy="143.89" rx="102.63" ry="26.09"/>
+          </g>
+          <ellipse class="cls-12" cx="491" cy="27.68" rx="112.36" ry="27.68"/>
+          <ellipse class="cls-18" cx="491" cy="27.68" rx="112.36" ry="27.68"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
