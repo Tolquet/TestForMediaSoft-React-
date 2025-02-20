@@ -14,12 +14,11 @@ function App() {
   return (
     <>
       <Header />
+
+      <SideBar />
       <div className="container">
-        <SideBar />
         <AppRoutes />
-    
       </div>
-      
       <Footer />
     </>
   );

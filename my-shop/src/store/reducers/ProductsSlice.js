@@ -2,11 +2,14 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
     list: [
-        { id: 1, name: "Магическое зелье", categorySlug: "potions", price: 50 },
-        { id: 2, name: "Эликсир маны", categorySlug: "potions", price: 75 },
-        { id: 3, name: "Кожаный доспех", categorySlug: "clothing", price: 200 },
-        { id: 4, name: "Стальной меч", categorySlug: "weapons", price: 500 },
-        { id: 5, name: "Лук охотника", categorySlug: "weapons", price: 300 }
+        { id: 1,name: "Магическое зелье", categorySlug: "potions", price: 50,imag: "/src/assets/products/фласка хп.svg"  },
+        { id: 2,name: "Эликсир маны", categorySlug: "potions", price: 75 ,imag: "/src/assets/products/фласка мп.svg" },
+        { id: 3,name: "Шляпа", categorySlug: "clothing", price: 200,imag: "/src/assets/products/Шляпасол.svg"  },
+        { id: 4,name: "Стальной меч", categorySlug: "weapons", price: 500,imag: "/src/assets/products/Меч.svg" },
+        { id: 5,name: "Двойные Катаны", categorySlug: "weapons" , price: 1000,imag: "/src/assets/products/катана.svg" },
+        { id: 6,name: "Зелье Скорости", categorySlug: "potions", price: 150,imag: "/src/assets/products/Фласка на скр.svg"  },
+        { id: 7,name: "Соломенная шляпа(Пиратская)", categorySlug: "clothing", price:105 ,imag: "/src/assets/products/Шляпасол.svg"},
+        
     ],
     searchTerm: "",
     sortOrder: "asc" // "asc" - по возрастанию, "desc" - по убыванию

@@ -1,12 +1,10 @@
-import { useEffect, useState } from "react";
-
-import ProductList from "../components/ProductList"
+import NewArrivals from "../components/NewArrivals";
 
 export default function Home() {
  
   return (
     <>
-       This is home
+     <NewArrivals />
     </>
   );
 }
