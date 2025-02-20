@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 302.36 1653.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #977763;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-11 {
+        opacity: .72;
+      }
+
+      .cls-11, .cls-3, .cls-7, .cls-8 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-2 {
+        fill: #bebebf;
+      }
+
+      .cls-12 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_235);
+        opacity: .33;
+      }
+
+      .cls-4 {
+        fill: #777;
+      }
+
+      .cls-5 {
+        fill: #542700;
+      }
+
+      .cls-6 {
+        fill: #9ba1a8;
+      }
+
+      .cls-7 {
+        fill: url(#_Безымянный_градиент_200);
+        opacity: .78;
+      }
+
+      .cls-8 {
+        fill: url(#_Безымянный_градиент_249);
+        opacity: .54;
+      }
+
+      .cls-9 {
+        fill: url(#_Безымянный_градиент_223);
+      }
+
+      .cls-10 {
+        fill: #a5a8aa;
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_249" data-name="Безымянный градиент 249" x1="193.06" y1="113.34" x2="302.25" y2="113.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#474747"/>
+      <stop offset=".22" stop-color="#929292"/>
+      <stop offset=".42" stop-color="#828282"/>
+      <stop offset=".93" stop-color="#3b3b3b"/>
+      <stop offset=".98" stop-color="#323232"/>
+      <stop offset=".99" stop-color="#222"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_200" data-name="Безымянный градиент 200" x1="193.23" y1="1081.51" x2="299.01" y2="1081.51" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#474747"/>
+      <stop offset=".31" stop-color="#fff"/>
+      <stop offset=".55" stop-color="#878787"/>
+      <stop offset=".98" stop-color="#323232"/>
+      <stop offset=".99" stop-color="#222"/>
+      <stop offset=".99" stop-color="#3b3b3b"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_235" data-name="Безымянный градиент 235" x1="184.88" y1="366.82" x2="299.01" y2="366.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#474747"/>
+      <stop offset=".36" stop-color="#fff"/>
+      <stop offset=".64" stop-color="#828282"/>
+      <stop offset=".84" stop-color="silver"/>
+      <stop offset=".98" stop-color="#323232"/>
+      <stop offset=".99" stop-color="#222"/>
+      <stop offset="1" stop-color="#3b3b3b"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_223" data-name="Безымянный градиент 223" x1="212.14" y1="387.07" x2="13.05" y2="247.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#474747"/>
+      <stop offset=".17" stop-color="#828282"/>
+      <stop offset=".66" stop-color="#fff"/>
+      <stop offset=".85" stop-color="silver"/>
+      <stop offset=".98" stop-color="#323232"/>
+      <stop offset=".99" stop-color="#222"/>
+      <stop offset="1" stop-color="#3b3b3b"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-12">
+    <g id="_Слой_1" data-name="Слой 1">
+      <g>
+        <polygon class="cls-6" points="275.76 103.94 275.73 0 275.73 0 247.76 51.94 219.8 0 219.8 0 219.77 103.94 193.17 153.36 209.4 149.63 234.47 143.88 234.47 164.09 238.55 164.17 238.55 226.67 256.98 226.67 256.98 164.52 261.06 164.6 261.06 143.88 286.13 149.63 302.36 153.36 275.76 103.94"/>
+        <polygon class="cls-8" points="275.65 103.94 275.62 0 275.62 0 247.66 51.94 219.7 0 219.69 0 219.66 103.94 193.06 153.36 209.3 149.63 234.36 143.88 234.36 164.09 238.44 164.17 238.44 226.67 256.87 226.67 256.87 164.52 260.95 164.6 260.95 143.88 286.02 149.63 302.25 153.36 275.65 103.94"/>
+        <g>
+          <rect class="cls-5" x="179.42" y="1533.59" width="133.41" height="105.78" rx="45.41" ry="45.41" transform="translate(1832.6 1340.36) rotate(90)"/>
+          <path class="cls-1" d="m172.75,1445.45h130.39c9.03,0,16.36,7.33,16.36,16.36v55.9c0,9.03-7.33,16.36-16.36,16.36h-130.39v-88.62h0Z" transform="translate(1735.88 1243.64) rotate(90)"/>
+          <rect class="cls-5" x="94.13" y="1223.89" width="303.99" height="105.78" rx="11.66" ry="11.66" transform="translate(1522.9 1030.66) rotate(90)"/>
+          <rect class="cls-1" x="156.07" y="999.95" width="180.1" height="88.62" rx="9" ry="9" transform="translate(1290.39 798.14) rotate(90)"/>
+          <path class="cls-5" d="m21.23,683.1h441.6c4.52,0,8.18,3.67,8.18,8.18v89.41c0,4.52-3.67,8.18-8.18,8.18H21.23v-105.78h0Z" transform="translate(982.11 489.87) rotate(90)"/>
+        </g>
+        <path class="cls-7" d="m299.01,950.72v-440.26h-105.78v440.26c0,5.19,4.15,9.4,9.31,9.52-.47,1.19-.73,2.47-.73,3.82v159.14c0,.63.07,1.25.17,1.85-5.11,1.95-8.75,6.88-8.75,12.68v276.83c0,5.73,3.56,10.62,8.58,12.62v116c-5.42,8.3-8.58,18.21-8.58,28.86v27.64c0,29.21,23.68,52.89,52.89,52.89h0c29.21,0,52.89-23.68,52.89-52.89v-27.64c0-10.65-3.16-20.56-8.58-28.86v-116c5.02-1.99,8.58-6.88,8.58-12.62v-276.83c0-5.8-3.64-10.73-8.75-12.68.11-.6.17-1.22.17-1.85v-159.14c0-1.35-.26-2.64-.73-3.82,5.16-.12,9.31-4.33,9.31-9.52Z"/>
+        <path class="cls-4" d="m298.41,320.27v-7.71c0-22.4-14.54-41.47-34.89-48.67v-40.93l-30.8-.58v24.67l-12.27-13.67c-16.23,8.83-27.22,25.77-27.22,45.24v38.07h-8.35v62.94h8.35v131.63h105.78v-190.33l-.6-.66Z"/>
+        <path class="cls-3" d="m298.41,320.27v-7.71c0-22.4-14.54-41.47-34.89-48.67v-40.93l-30.8-.58v24.67l-12.27-13.67c-16.23,8.83-27.22,25.77-27.22,45.24v38.07h-8.35v62.94h8.35v131.63h105.78v-190.33l-.6-.66Z"/>
+        <g>
+          <path class="cls-2" d="m182.9,314.9v-161.34C81.89,153.56,0,240.03,0,346.69c0,.72.02,1.44.03,2.15,0,.72-.03,1.43-.03,2.15,0,106.66,81.89,193.13,182.9,193.13v-161.34h8.87v-67.88h-8.87Z"/>
+          <path class="cls-10" d="m183.07,314.9v-161.34c-96.54,0-174.8,86.47-174.8,193.13,0,.72.02,1.44.03,2.15,0,.72-.03,1.43-.03,2.15,0,106.66,78.26,193.13,174.8,193.13v-161.34h8.48v-67.88h-8.48Z"/>
+          <g class="cls-11">
+            <path class="cls-9" d="m183.07,314.9v-161.34c-96.54,0-174.8,86.47-174.8,193.13,0,.72.02,1.44.03,2.15,0,.72-.03,1.43-.03,2.15,0,106.66,78.26,193.13,174.8,193.13v-161.34h8.48v-67.88h-8.48Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
