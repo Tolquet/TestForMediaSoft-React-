@@ -50,14 +50,17 @@ export default function ProductList() {
           {filteredProducts.map((product) => (
             <li key={product.id} className="product">
               <img className="img-product" src={product.imag} alt="" />
-              <div>{product.name}</div>
-              <div>{product.price} Золота</div>
+              <div>
+
+                <div>{product.name}</div>
+                <div>{product.price} Золота</div>
               <button
                 onClick={() => dispatch(addToCart(product))}
                 className="px-4 py-2 bg-green-500 text-white rounded"
               >
                 Добавить в корзину
               </button>
+              </div>
             </li>
           ))}
         </ul>

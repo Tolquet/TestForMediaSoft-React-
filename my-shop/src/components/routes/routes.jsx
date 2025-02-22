@@ -4,6 +4,7 @@ import Cart from "../../pages/Cart";
 import ProductList from "../ProductList";
 import Order from "../../pages/Order";
 
+
 const AppRoutes = () => {
     return(
     <Routes>
@@ -11,6 +12,7 @@ const AppRoutes = () => {
         <Route path="/my/cart" element={<Cart />} />
         <Route path="/categories/:slug" element={<ProductList />} />
         <Route path="/order" element={<Order />} />
+        
     </Routes>
     )
 };
