@@ -49,11 +49,13 @@ React SPA (интернет магазин) в дириктории my-shop
 
 3)Откройте терминал
 
-3)Перейдите в корень папки my-shop c помощью команды `cd` (если уже находитесь в корне папки то не нужно)
+4)Перейдите в корень папки my-shop c помощью команды `cd` (если уже находитесь в корне папки то не нужно)
 
-4)Установите зависимости `npm install` 
+5) Введите `Set-ExecutionPolicy unrestricted`
 
-5)Запустите проект `npm run dev` / `yarn dev`
+6)Установите зависимости `npm install` && `npm install react-router-dom -D sass-embedded` 
+
+7)Запустите проект `npm run dev` / `yarn dev`
 
 
 
