@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-// Функция для загрузки корзины из LocalStorage
+
 const loadCartFromLocalStorage = () => {
     try {
         const cartData = localStorage.getItem("cart");
@@ -11,7 +11,6 @@ const loadCartFromLocalStorage = () => {
     }
 };
 
-// Функция для сохранения корзины в LocalStorage
 const saveCartToLocalStorage = (cartItems) => {
     try {
         localStorage.setItem("cart", JSON.stringify(cartItems));
@@ -21,7 +20,7 @@ const saveCartToLocalStorage = (cartItems) => {
 };
 
 const initialState = {
-    cartItems: loadCartFromLocalStorage(), // Загружаем корзину при старте
+    cartItems: loadCartFromLocalStorage(), 
 };
 
 const cartSlice = createSlice({
@@ -35,18 +34,18 @@ const cartSlice = createSlice({
             } else {
                 state.cartItems.push({ ...action.payload, quantity: 1 });
             }
-            saveCartToLocalStorage(state.cartItems); // Сохраняем в LocalStorage
+            saveCartToLocalStorage(state.cartItems); 
         },
         removeFromCart: (state, action) => {
             state.cartItems = state.cartItems.filter((item) => item.id !== action.payload);
-            saveCartToLocalStorage(state.cartItems); // Сохраняем в LocalStorage
+            saveCartToLocalStorage(state.cartItems); 
         },
         increaseQuantity: (state, action) => {
             const item = state.cartItems.find((p) => p.id === action.payload);
             if (item) {
                 item.quantity += 1;
             }
-            saveCartToLocalStorage(state.cartItems); // Сохраняем в LocalStorage
+            saveCartToLocalStorage(state.cartItems); 
         },
         decreaseQuantity: (state, action) => {
             const item = state.cartItems.find((p) => p.id === action.payload);
@@ -55,11 +54,11 @@ const cartSlice = createSlice({
             } else {
                 state.cartItems = state.cartItems.filter((p) => p.id !== action.payload);
             }
-            saveCartToLocalStorage(state.cartItems); // Сохраняем в LocalStorage
+            saveCartToLocalStorage(state.cartItems); 
         },
         clearCart: (state) => {
             state.cartItems = [];
-            saveCartToLocalStorage(state.cartItems); // Очищаем LocalStorage
+            saveCartToLocalStorage(state.cartItems); 
         },
     },
 });

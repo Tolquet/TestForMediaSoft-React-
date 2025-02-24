@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import logo from "../assets/logo4.svg"
 import logoName from "../assets/logo1.png"
-import loginPng from "../assets/Войти.svg"
+
 import CartPng from "../assets/Крзна.svg"
 
 import "../styles/main.scss"

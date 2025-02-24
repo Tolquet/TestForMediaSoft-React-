@@ -1,12 +1,11 @@
 import { YMaps, Map, Placemark, GeolocationControl } from "react-yandex-map";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import axios from "axios";
 
 export default function AddressPicker() {
     const [coords, setCoords] = useState([55.751244, 37.618423]); // Москва
     const [address, setAddress] = useState("");
 
-    // Функция получения адреса по координатам
     const fetchAddress = async (lat, lon) => {
         try {
             const response = await axios.get(
@@ -22,7 +21,6 @@ export default function AddressPicker() {
         }
     };
 
-    // Функция получения координат по адресу
     const fetchCoords = async (inputAddress) => {
         try {
             const response = await axios.get(
@@ -39,19 +37,17 @@ export default function AddressPicker() {
         }
     };
 
-    // Обработчик клика по карте
     const handleClick = (e) => {
         const newCoords = e.get("coords");
         setCoords(newCoords);
-        fetchAddress(newCoords[0], newCoords[1]); // Получаем адрес
+        fetchAddress(newCoords[0], newCoords[1]); 
     };
 
-    // Обработчик ввода адреса
     const handleInputChange = (e) => {
         setAddress(e.target.value);
     };
 
-    // Поиск координат по введенному адресу
+
     const handleSearch = () => {
         fetchCoords(address);
     };

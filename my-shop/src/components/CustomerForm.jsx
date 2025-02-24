@@ -7,7 +7,7 @@ export default function CustomerForm() {
         phone: ""
     });
 
-    // Загружаем данные из localStorage при монтировании
+    
     useEffect(() => {
         const savedCustomer = JSON.parse(localStorage.getItem("customer"));
         if (savedCustomer) {
@@ -15,7 +15,7 @@ export default function CustomerForm() {
         }
     }, []);
 
-    // Обновляем state и сохраняем в localStorage
+  
     const handleChange = (e) => {
         const { name, value } = e.target;
         const updatedCustomer = { ...customer, [name]: value };

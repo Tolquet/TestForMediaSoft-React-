@@ -5,7 +5,7 @@ import { addToCart } from "../store/reducers/CartSlice";
 
 export default function ProductList() {
   const dispatch = useDispatch();
-  const { slug } = useParams(); // Получаем категорию из URL
+  const { slug } = useParams(); 
 
   const {
     list: products = [],
@@ -13,7 +13,7 @@ export default function ProductList() {
     searchTerm,
   } = useSelector((state) => state.products);
 
-  // Фильтрация товаров по категории и поиску
+
   const filteredProducts = (products || [])
     .filter((product) => product.categorySlug === slug)
     .filter((product) =>
@@ -23,7 +23,6 @@ export default function ProductList() {
       sortOrder === "asc" ? a.price - b.price : b.price - a.price
     );
 
-  // Если товаров нет — просто ничего не рендерим
   if (!products.length) return null;
 
   return (

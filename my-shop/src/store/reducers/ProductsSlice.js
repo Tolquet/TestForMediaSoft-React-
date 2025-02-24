@@ -12,7 +12,7 @@ const initialState = {
         
     ],
     searchTerm: "",
-    sortOrder: "asc" // "asc" - по возрастанию, "desc" - по убыванию
+    sortOrder: "asc" 
 };
 
 const productSlice = createSlice({
@@ -23,7 +23,7 @@ const productSlice = createSlice({
             state.searchTerm = action.payload;
         },
         sortProducts: (state) => {
-            if (!state.list || !Array.isArray(state.list)) return; // Защита от ошибки
+            if (!state.list || !Array.isArray(state.list)) return; 
             
             state.sortOrder = state.sortOrder === "asc" ? "desc" : "asc";
             state.list = [...state.list].sort((a, b) =>
